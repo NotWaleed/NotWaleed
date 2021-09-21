@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **NotWaleed/NotWaleed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=fff"> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=fff"> <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=fff"> <img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff"> <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=fff">
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=NotWaleed&count_private=true&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NOTWALEED&show_icons=true&theme=radical)
+
