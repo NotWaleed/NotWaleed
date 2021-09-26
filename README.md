@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-**NotWaleed/NotWaleed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**[JAGUAR#1060](https://discord.gg/AzSzGkYnjg)**
 
 Here are some ideas to get you started:
 
