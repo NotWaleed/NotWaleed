@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=18A4F7&size=40&width=900&height=100&lines=Hello+there!)](https://git.io/typing-svg)
-**[JAGUAR#1060](https://discord.gg/AzSzGkYnjg)**
+waleed_18
 
 Here are some ideas to get you started:
 
