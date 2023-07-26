@@ -1,15 +1,9 @@
 waleed_18
 
-Here are some ideas to get you started:
+Here are my some info! 
 
 - 🔭 I’m currently working on ...Discord Bots
 - 🌱 I’m currently learning ...Programing,webdevelopment,graphic designing.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...He,Her
-- ⚡ Fun fact: ...
 
 <h3>I'm learning several languages</h3>
    
@@ -17,17 +11,18 @@ Here are some ideas to get you started:
    
 
   ## 📈 < Statistics />
+  <table width="100%" align="center">
+  <tr>
+    <td>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NotWaleed&show_icons=true&hide_border=true&theme=tokyonight" /> </td>
+  </tr>
+ <table>
+    
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=apratimshukla6&theme=darkhub">
 
 
-<table width="100%" align="center">
-  <tr>
-    <td>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NotWaleed&show_icons=true&hide_border=true&theme=tokyonight" /> </td>
- <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whirl21&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/> </td>
-  </tr>
- <table>
+
 
  
 
